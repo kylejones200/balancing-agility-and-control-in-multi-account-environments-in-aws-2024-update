@@ -11,14 +11,7 @@ Multi-Account Environments enable large scale adoption of AWS services and drive
 
 Multi-account environments balance the opposing needs to the two key personas: Central IT team and builder teams. This causes an inherent tension in the implementation. The Central IT team wants consistent and centralized compliance policies enforced on the workloads, this derives from the central team's need to ensure compliance. The workload owners want agility and flexibility in applying the changes to their workloads, dependencies on the platform team slows them down. Compliance is essential, however compliance should not be designed to make the platform unusable. Compliance controls reduce business risk, they should be designed as handrails allowing builders to focus on innovation. A well-designed multi-account platform balances the needs of the stakeholders with an architecture that allows balancing compliance and flexibility and continuously grow to offer additional capabilities.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
